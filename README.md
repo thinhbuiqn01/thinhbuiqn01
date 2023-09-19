@@ -3,12 +3,12 @@
  
 I'm Coding
 
-- 🔭 Nickname Tony Bui
+- 🔭 Bui Viet Thinh
 - (づ￣ 3￣)づ
 - (u‿ฺu✿ฺ)
 - (＠＾０＾)
 - (☞ﾟヮﾟ)
 - (ﾟヮﾟ☜)
 - (¬‿¬)
-- (๑•̀ㅂ•́)و✧ Happy coding.........
+- (๑•̀ㅂ•́)و✧ Happy coding.........zzz
  
