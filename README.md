@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinh Bui</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h3 align="center">A web developer from Danang</h3>
 
 
 - 🔭 I’m currently working on ShapeeCloud JSC
