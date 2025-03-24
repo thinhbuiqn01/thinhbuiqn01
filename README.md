@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thinh Bui</h1>
-<h3 align="center">A web developer from Danang</h3>
+<h3 align="center">A web developer from Da Nang</h3>
 
 
 - 🔭 I’m currently working on ShapeeCloud JSC
 
-- 💬 Ask me about **Angular, ReactJS, .NET**
+- 💬 Ask me about **Angular, ReactJS, NextJs .NET**
 
 - 📫 How to reach me **buithinh.qng.01@gmail.com** 
 
