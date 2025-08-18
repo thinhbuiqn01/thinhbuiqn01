@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ShapeeCloud JSC
 
-- 💬 Ask me about **Angular, ReactJS, NextJs .NET**
+- 💬 Ask me about **Angular, ReactJS, NextJS .NET**
 
 - 📫 How to reach me **buithinh.qng.01@gmail.com** 
 
