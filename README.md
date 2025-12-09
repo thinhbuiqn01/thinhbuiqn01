@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Thinh Bui</h1>
-<h3 align="center">A web developer from Da Nang</h3>
+<h3 align="center">A web developer from Vietnam</h3>
 
 
-- 🔭 I’m currently working on Vietnam
+- 🔭 I’m currently working on Da Nang
 
 - 💬 Ask me about **Angular, NextJS, ReactJS, NextJS .NET**
 
